@@ -1,4 +1,4 @@
-import Header from "./components/header"
+import Header from "./components/Header"
 import { useState, useEffect } from "react";
 import Button from "./components/Button";
 import { formatearDinero, calcularTotalPagar }from './helpers/'
